@@ -1,2 +1,2 @@
 # first-git
-hi
+This is my first git repository
